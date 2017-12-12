@@ -5,6 +5,6 @@ struct Note {
 	int start;
 	int end;
 	int pitch;
-}
+};
 
 #endif
